@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adin05
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning ASP.NET, Go, NodeJS, JavaScript
 - 💞️ I’m looking to collaborate on Job
 - 📫 How to reach me adinurr@gmail.com
 
